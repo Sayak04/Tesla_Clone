@@ -11,7 +11,7 @@ function Header() {
     return (
         <Container>
             <a>
-                <img src="/images/logo.svg" alt="Tesla Icon" />
+                <img src="./images/logo.svg" alt="Tesla Icon" />
             </a>
             <Menu>
                 {cars && cars.map((car, index) => (

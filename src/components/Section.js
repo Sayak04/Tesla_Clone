@@ -31,7 +31,7 @@ function Section(props) {
                         }
                     </ButtonGroup>
                 </LightSpeed>
-                <DownArrow src="/images/down-arrow.svg" />
+                <DownArrow src="./images/down-arrow.svg" />
             </Buttons>
         </Wrap>
     )
